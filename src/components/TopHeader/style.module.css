@@ -1,0 +1,26 @@
+.topheader{
+    border-bottom: 0.3px solid rgb(219, 217, 217);
+    padding: 8px 0px;
+}
+.headerInfoleft ul li ,.headserInfoRight ul li {
+    display: inline-block;
+    padding: 0 15px;
+    color: #292621;
+    font-size: 13px;
+}
+.headerInfoleft ul li a ,.headserInfoRight ul li a{
+    color: #292621;
+}
+.headerRigthStyel li{
+    border-right: 1px solid silver;
+}
+.headerSocialIcon li a svg{
+    color: #74706B;
+    transform: rotateY(0);
+    transition: all 0.5s;
+}
+.headerSocialIcon li a svg:hover{
+    color: #FF2020;
+    transform: rotateY(180deg);
+    
+}
