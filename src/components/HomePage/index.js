@@ -1,9 +1,10 @@
 import React from 'react'
+import { BackTop } from './style.module.css'
 
 function HomePage() {
     return (
         <div>
-            HomePage Hello Capital Shop World !
+
         </div>
     )
 }
